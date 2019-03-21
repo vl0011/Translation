@@ -1,0 +1,6 @@
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\bin\Debug\Naver_API_KEY.dll
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\bin\Debug\Naver_API_KEY.pdb
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\obj\Debug\Naver_API_KEY.csprojAssemblyReference.cache
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\obj\Debug\Naver_API_KEY.csproj.CoreCompileInputs.cache
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\obj\Debug\Naver_API_KEY.dll
+C:\Users\신영수\source\repos\Translat\Naver_API_KEY\obj\Debug\Naver_API_KEY.pdb

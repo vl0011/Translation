@@ -1,0 +1,12 @@
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Translation_API.dll
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Translation_API.pdb
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Naver_API_KEY.dll
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Naver_API_KEY.pdb
+C:\Users\신영수\source\repos\Translat\Translation_API\obj\Debug\Translation_API.csprojAssemblyReference.cache
+C:\Users\신영수\source\repos\Translat\Translation_API\obj\Debug\Translation_API.csproj.CoreCompileInputs.cache
+C:\Users\신영수\source\repos\Translat\Translation_API\obj\Debug\Translation_API.csproj.CopyComplete
+C:\Users\신영수\source\repos\Translat\Translation_API\obj\Debug\Translation_API.dll
+C:\Users\신영수\source\repos\Translat\Translation_API\obj\Debug\Translation_API.pdb
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\신영수\source\repos\Translat\Translation_API\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,12 @@
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Test.exe.config
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Test.exe
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Test.pdb
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Translation_API.dll
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Naver_API_KEY.dll
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Translation_API.pdb
+C:\Users\신영수\source\repos\Translat\Test\bin\Debug\Naver_API_KEY.pdb
+C:\Users\신영수\source\repos\Translat\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\신영수\source\repos\Translat\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\신영수\source\repos\Translat\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\신영수\source\repos\Translat\Test\obj\Debug\Test.exe
+C:\Users\신영수\source\repos\Translat\Test\obj\Debug\Test.pdb

@@ -1,0 +1,12 @@
+﻿{
+  "message": {
+    "@type": "response",
+    "@service": "naverservice.nmt.proxy",
+    "@version": "1.0.0",
+    "result": {
+      "srcLangType": "ko",
+      "tarLangType": "en",
+      "translatedText": "I am a Korean."
+    }
+  }
+}
